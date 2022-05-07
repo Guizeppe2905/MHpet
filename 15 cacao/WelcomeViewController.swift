@@ -33,7 +33,7 @@ class WelcomeViewController: UIViewController {
     private let labelTitle: UILabel = {
        let label = UILabel()
        label.numberOfLines = 0
-       label.font = Constants.Fonts.kHeadings
+       label.font = UIFont.systemFont(ofSize: 36, weight: .bold)
        label.textColor = Constants.Colors.primaryTeal
        label.text = "Добрый День!"
        label.alpha = 0.0
@@ -41,7 +41,7 @@ class WelcomeViewController: UIViewController {
     }()
     private let labelO: UILabel = {
         let label = UILabel()
-        label.font = Constants.Fonts.kHeadings
+        label.font = UIFont.systemFont(ofSize: 36, weight: .bold)
         label.textColor = Constants.Colors.primaryTeal
         label.text = "Д"
         label.alpha = 0.0
@@ -49,7 +49,7 @@ class WelcomeViewController: UIViewController {
     }()
     private let labelO1: UILabel = {
         let label = UILabel()
-        label.font = Constants.Fonts.kHeadings
+        label.font = UIFont.systemFont(ofSize: 36, weight: .bold)
         label.textColor = Constants.Colors.primaryTeal
         label.text = "Д"
         label.alpha = 0.0
@@ -57,7 +57,7 @@ class WelcomeViewController: UIViewController {
     }()
     private let labelD: UILabel = {
         let label = UILabel()
-        label.font = Constants.Fonts.kHeadings
+        label.font = UIFont.systemFont(ofSize: 36, weight: .bold)
         label.textColor = Constants.Colors.primaryTeal
         label.text = "о"
         label.alpha = 0.0
@@ -65,7 +65,7 @@ class WelcomeViewController: UIViewController {
     }()
     private let labelB: UILabel = {
         let label = UILabel()
-        label.font = Constants.Fonts.kHeadings
+        label.font = UIFont.systemFont(ofSize: 36, weight: .bold)
         label.textColor = Constants.Colors.primaryTeal
         label.text = "е"
         label.alpha = 0.0
@@ -81,7 +81,7 @@ class WelcomeViewController: UIViewController {
     private let labelText: UILabel = {
         let label = UILabel()
         label.numberOfLines = 0
-        label.font = Constants.Fonts.kRegular
+        label.font = UIFont.systemFont(ofSize: 16, weight: .regular)
         label.text = ""
         return label
     }()
@@ -211,7 +211,7 @@ class WelcomeViewController: UIViewController {
     }
             labelText.snp.makeConstraints { make in
             make.height.equalTo(90)
-            make.width.equalTo(200)
+            make.width.equalTo(160)
             make.leading.equalTo(stackView.snp.leading).offset(130)
             make.top.equalTo(stackView.snp.top).offset(270)
         }

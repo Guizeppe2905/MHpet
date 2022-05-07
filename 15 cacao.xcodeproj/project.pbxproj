@@ -16,8 +16,6 @@
 		513E92172825B33B0030DC7E /* IntroductionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 513E92162825B33B0030DC7E /* IntroductionViewController.swift */; };
 		513E921B282654C50030DC7E /* ReverseVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 513E921A282654C50030DC7E /* ReverseVC.swift */; };
 		513E921F28269F9A0030DC7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 513E921E28269F9A0030DC7E /* Main.storyboard */; };
-		513F46FE281B10B800DBDFEE /* OnlineWebFonts_COM_3e0151475f89f6b98256fc53117aa004 in Resources */ = {isa = PBXBuildFile; fileRef = 513F46FD281B10B800DBDFEE /* OnlineWebFonts_COM_3e0151475f89f6b98256fc53117aa004 */; };
-		513F4700281B10F700DBDFEE /* Kaspersky Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 513F46FF281B10F700DBDFEE /* Kaspersky Regular.ttf */; };
 		513F4702281B114D00DBDFEE /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 513F4701281B114D00DBDFEE /* Constants.swift */; };
 		513F4705281B11D900DBDFEE /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 513F4704281B11D900DBDFEE /* Colors.xcassets */; };
 		513F470A281B266000DBDFEE /* Aquarium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 513F4709281B266000DBDFEE /* Aquarium.swift */; };
@@ -49,8 +47,6 @@
 		513E92162825B33B0030DC7E /* IntroductionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroductionViewController.swift; sourceTree = "<group>"; };
 		513E921A282654C50030DC7E /* ReverseVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseVC.swift; sourceTree = "<group>"; };
 		513E921E28269F9A0030DC7E /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		513F46FD281B10B800DBDFEE /* OnlineWebFonts_COM_3e0151475f89f6b98256fc53117aa004 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = OnlineWebFonts_COM_3e0151475f89f6b98256fc53117aa004; path = "../../../../Шрифты/OnlineWebFonts_COM_3e0151475f89f6b98256fc53117aa004"; sourceTree = "<group>"; };
-		513F46FF281B10F700DBDFEE /* Kaspersky Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Kaspersky Regular.ttf"; path = "../Шрифты/OnlineWebFonts_COM_3e0151475f89f6b98256fc53117aa004/Kaspersky Regular/Kaspersky Regular.ttf"; sourceTree = "<group>"; };
 		513F4701281B114D00DBDFEE /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		513F4704281B11D900DBDFEE /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 		513F4709281B266000DBDFEE /* Aquarium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aquarium.swift; sourceTree = "<group>"; };
@@ -119,19 +115,10 @@
 		513F46FB281B108200DBDFEE /* Constants */ = {
 			isa = PBXGroup;
 			children = (
-				513F46FC281B10A700DBDFEE /* Fonts */,
 				513F4701281B114D00DBDFEE /* Constants.swift */,
 				513F4704281B11D900DBDFEE /* Colors.xcassets */,
 			);
 			path = Constants;
-			sourceTree = "<group>";
-		};
-		513F46FC281B10A700DBDFEE /* Fonts */ = {
-			isa = PBXGroup;
-			children = (
-				513F46FD281B10B800DBDFEE /* OnlineWebFonts_COM_3e0151475f89f6b98256fc53117aa004 */,
-			);
-			path = Fonts;
 			sourceTree = "<group>";
 		};
 		513F4706281B24D900DBDFEE /* Aquarium */ = {
@@ -200,7 +187,6 @@
 		51C3F3F927C3B48400617F4E = {
 			isa = PBXGroup;
 			children = (
-				513F46FF281B10F700DBDFEE /* Kaspersky Regular.ttf */,
 				51C3F40427C3B48400617F4E /* 15 cacao */,
 				51C3F40327C3B48400617F4E /* Products */,
 				F2D99D455E7729F373B75ACD /* Pods */,
@@ -316,8 +302,6 @@
 				51C3F41227C3B48400617F4E /* LaunchScreen.storyboard in Resources */,
 				51C3F40F27C3B48400617F4E /* Assets.xcassets in Resources */,
 				513F4705281B11D900DBDFEE /* Colors.xcassets in Resources */,
-				513F46FE281B10B800DBDFEE /* OnlineWebFonts_COM_3e0151475f89f6b98256fc53117aa004 in Resources */,
-				513F4700281B10F700DBDFEE /* Kaspersky Regular.ttf in Resources */,
 				513E921F28269F9A0030DC7E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

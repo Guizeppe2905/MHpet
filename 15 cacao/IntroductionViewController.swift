@@ -41,7 +41,7 @@ class IntroductionViewController: UIViewController, UICollectionViewDataSource, 
         description.translatesAutoresizingMaskIntoConstraints = false
         description.text =
         "Экран№1 - Обзор - NSLayoutConstraint, UICollectionViewCells \nЭкран№2 - Список фильмов - MVP, REST API \nЭкран№3 - Список сотрудников - CoreData, SnapKit \nЭкран№4 - Аквариум - Анимация \nЭкран№5 - Опросник - URLSession, Alamofire, SnapKit"
-        description.font = Constants.Fonts.kRegular
+        description.font = UIFont.systemFont(ofSize: 16, weight: .regular)
         description.textColor = .white
         let stackView = UIStackView(arrangedSubviews: [title, description])
         stackView.translatesAutoresizingMaskIntoConstraints = false
