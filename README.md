@@ -1,14 +1,10 @@
 # MHpet
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=00A88E&multiline=true&lines=%D0%92%D0%B7%D1%8F%D0%B2+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%BD%D0%B0+%D1%81%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D1%83%2C+%D0%B2%D1%8B+%D0%BF%D0%BE%D0%B9%D0%BC%D0%B5%D1%82%D0%B5%2C+;%D1%87%D1%82%D0%BE+%D1%8D%D1%82%D0%BE+%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B5+%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2+%D0%B2%D0%B0%D1%88%D0%B5%D0%B9+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8!)](https://git.io/typing-svg)
-
 ***
 # Введение
 ___
 
-<img align="right" src="https://ie.wampi.ru/2022/05/07/IMG_20220506_231921.jpg" alt="drawing" style="width:300px;"/>
-Данный проект является первой "пробой пера" и вряд ли может даже называться полноценным Pet-проектом, скорее это просто сборник маленьких проектов. 
+<img align="left" src="https://ie.wampi.ru/2022/05/07/emp.jpg" alt="drawing" style="width:220px;"/> Данный проект является первой "пробой пера" и вряд ли может даже называться полноценным Pet-проектом, скорее это просто сборник маленьких проектов. 
 Сейчас я пишу свой первый проект, но так как стажировка мне нужна срочно, мне посоветовали опубликовать пока "хоть что-то". Зато просмотр не займет у вас много времени.
 
 
@@ -17,8 +13,8 @@ ___
 ### Описание
 ___
 
-HMpet представляет собой 5 мини-проектов, которым соответсвуют вкладки TabBar (плюс экран приветствия). Введение замещает собой образоное содержание всего проекта и выполнено в виде слайд-шоу. Далее по очереди идут:
-<img align="right" src="https://ie.wampi.ru/2022/05/07/emp.jpg" alt="drawing" style="width:200px;"/>
+<img align="right" src="https://ie.wampi.ru/2022/05/07/IMG_20220506_231921.jpg" alt="drawing" style="width:270px;"/>HMpet представляет собой 5 мини-проектов, которым соответсвуют вкладки TabBar (плюс экран приветствия). Введение замещает собой образоное содержание всего проекта и выполнено в виде слайд-шоу. Далее по очереди идут:
+
 
 * Поисковик фильмов;
 * Список сотрудников с возможностью добавления/ удаления, мини-анкетой, сортировкой в алфавитом и обратно алфавитном порядке;
@@ -31,7 +27,8 @@ ___
 ### Стэк
 ___
 
-![sd]<img align="right" src="https://ia.wampi.ru/2022/05/07/IMG_20220506_225556.jpg" alt="drawing" style="width:150px;"/>
+![sd]<img align="right" src="https://ia.wampi.ru/2022/05/07/IMG_20220506_225556.jpg" alt="drawing" style="width:170px;"/>
+![sd]<img align="right" src="https://ie.wampi.ru/2022/05/07/IMG_20220506_225454.jpg" alt="drawing" style="width:170px;"/>
 - REST API
 - CoreData
 - UICollectionViewCells
@@ -41,14 +38,15 @@ ___
 - pattern MVP
 - Анимация
 Также в конце синтексис был проверен с помощью SwiftLint.
-![sd]<img align="right" src="https://ie.wampi.ru/2022/05/07/IMG_20220506_225454.jpg" alt="drawing" style="width:150px;"/>
+
 
 
 ___
 ### Заключение и выводы
 ___
 Подводя итоги, принято писать как помочь проекту ... Возьмите автора на стажировку, помогите войти в профессию IOS-разработчика, для начала - стать "полноценным" джуном. 
-Спасибо за внимание и лояльность!
+Спасибо за внимание!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=00A88E&multiline=true&lines=%D0%92%D0%B7%D1%8F%D0%B2+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%BD%D0%B0+%D1%81%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D1%83%2C+%D0%B2%D1%8B+%D0%BF%D0%BE%D0%B9%D0%BC%D0%B5%D1%82%D0%B5%2C;%D1%87%D1%82%D0%BE+%D1%8D%D1%82%D0%BE+%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B5+%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2+%D0%B2%D0%B0%D1%88%D0%B5%D0%B9+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8!)](https://git.io/typing-svg)
 
 
 
