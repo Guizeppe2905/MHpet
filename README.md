@@ -53,7 +53,7 @@ ___
 Спасибо за внимание!
 
 <p align="center">
-  <img src="https://gifovina.ru/gif/c799e92428b5bfaf427f32c2c51f833f" alt="animated" />
+  <img src="https://gifovina.ru/gif/c5b5ecd7f3fb114e92c69ddd41ce9bb4" alt="animated" />
 </p>
 
 
