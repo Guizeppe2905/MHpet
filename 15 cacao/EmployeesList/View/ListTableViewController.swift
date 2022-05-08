@@ -33,6 +33,7 @@ class ListTableViewController: UITableViewController {
     }()
     lazy var headerView: UILabel = {
         let label = UILabel(frame: CGRect(x: 0, y: 0, width: 400, height: 50))
+        label.text = " "
         return label
          }()
        private let button: UIButton = {
