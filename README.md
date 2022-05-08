@@ -1,6 +1,7 @@
-![hippo](https://gifovina.ru/gif/c799e92428b5bfaf427f32c2c51f833f)# MHpet
+# MHpet
 
 ***
+![hippo](https://gifovina.ru/gif/c799e92428b5bfaf427f32c2c51f833f
 # Введение
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=00A88E&center=true&multiline=true&lines=%D0%92%D0%B7%D1%8F%D0%B2+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%BD%D0%B0+%D1%81%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D1%83%2C+%D0%B2%D1%8B+%D0%BF%D0%BE%D0%B9%D0%BC%D0%B5%D1%82%D0%B5%2C;%D1%87%D1%82%D0%BE+%D1%8D%D1%82%D0%BE+%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B5+%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2+%D0%B2%D0%B0%D1%88%D0%B5%D0%B9+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8!)](https://git.io/typing-svg)
 ***
