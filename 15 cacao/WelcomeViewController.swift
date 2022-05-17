@@ -89,8 +89,10 @@ class WelcomeViewController: UIViewController {
     private lazy var stackView: UIStackView = {
         let stackView = UIStackView()
         stackView.axis = .horizontal
-        stackView.alignment = .center
+        //stackView.alignment = .center
         stackView.spacing = 16
+        stackView.translatesAutoresizingMaskIntoConstraints = false
+        stackView.contentMode = .scaleAspectFit
         stackView.addSubview(labelTitle)
         stackView.addSubview(labelO)
         stackView.addSubview(labelO1)
@@ -173,12 +175,10 @@ class WelcomeViewController: UIViewController {
                          for: .touchUpInside)
     }
     private func setupConstraints() { stackView.snp.makeConstraints { make in
-            make.height.equalTo(713)
-            make.width.equalTo(375)
-            make.leading.equalToSuperview().offset(0)
-            make.trailing.equalToSuperview().offset(0)
-            make.top.equalToSuperview().offset(0)
-            make.bottom.equalToSuperview().offset(0)
+            make.left.equalTo(self.view.safeAreaLayoutGuide.snp.left)
+            make.right.equalTo(self.view.safeAreaLayoutGuide.snp.right)
+            make.top.equalTo(self.view.safeAreaLayoutGuide.snp.top)
+            make.bottom.equalTo(self.view.safeAreaLayoutGuide.snp.bottom)
         }
        labelTitle.snp.makeConstraints { make in
             make.height.equalTo(90)
