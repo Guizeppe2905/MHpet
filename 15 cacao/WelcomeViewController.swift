@@ -106,8 +106,9 @@ class WelcomeViewController: UIViewController {
         view.addSubview(stackView)
         setupConstraints()
         view.addSubview(button)
+        change()
         button.addTarget(self,
-                         action: #selector(change),
+                         action: #selector(typingText),
                          for: .touchUpInside)
     }
     @objc func didTapButton() {
@@ -135,9 +136,10 @@ class WelcomeViewController: UIViewController {
         tabBarVC.tabBar.backgroundColor = Constants.Colors.primaryTeal
         present(tabBarVC, animated: true)
     }
-    @objc func change() {
+   @objc func change() {
         UIView.animate(withDuration: 1.5, delay: 0) { [weak self] in
             guard let self = self else { return }
+            self.girlImage.alpha = 1.0
             self.labelO.alpha = 1.0
             self.labelO1.alpha = 1.0
             self.labelO.transform = CGAffineTransform(translationX: -14, y: 0)
@@ -156,13 +158,8 @@ class WelcomeViewController: UIViewController {
             self.labelD.alpha = 0.0
             self.labelB.alpha = 0.0
             }
-        typingText()
-        view.addSubview(button1)
-        button1.addTarget(self,
-                         action: #selector(didTapButton),
-                         for: .touchUpInside)
     }
-    private func typingText() {
+    @objc private func typingText() {
         guard var text = labelText.text else { return }
         for char in typingString {
             AudioServicesPlaySystemSound(1306)
@@ -170,6 +167,10 @@ class WelcomeViewController: UIViewController {
             labelText.text = text
             RunLoop.current.run(until: Date() + 0.1)
         }
+        view.addSubview(button1)
+        button1.addTarget(self,
+                         action: #selector(didTapButton),
+                         for: .touchUpInside)
     }
     private func setupConstraints() { stackView.snp.makeConstraints { make in
             make.height.equalTo(713)
