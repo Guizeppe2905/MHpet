@@ -3,11 +3,12 @@
 ***
 
 # Введение
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=00A88E&center=true&multiline=true&lines=%D0%92%D0%B7%D1%8F%D0%B2+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%BD%D0%B0+%D1%81%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D1%83%2C+%D0%B2%D1%8B+%D0%BF%D0%BE%D0%B9%D0%BC%D0%B5%D1%82%D0%B5%2C;%D1%87%D1%82%D0%BE+%D1%8D%D1%82%D0%BE+%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%B5+%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B2+%D0%B2%D0%B0%D1%88%D0%B5%D0%B9+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&multiline=true&height=150&lines=%D0%AD%D1%82%D0%BE+1%D1%8B%D0%B9+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2C+%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD+%D0%BD%D0%B0+%D0%94%2F%D0%97;%D0%9F%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5%2C+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C+YoDaBox+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82;https%3A%2F%2Fgithub.com%2FGuizeppe2905%2FYoDaBox.git)](https://git.io/typing-svg)
 ***
 
 <img align="left" src="https://ie.wampi.ru/2022/05/07/emp.jpg" alt="drawing" style="width:220px;"/> Данная работа является первой "пробой пера" и вряд ли может даже называться полноценным Pet-проектом, скорее это просто сборник маленьких проектов. 
-Сейчас я пишу свой первый настоящий PET, но так как стажировка уже нужна срочно, мне посоветовали опубликовать пока "хоть что-то". Зато просмотр не займет у вас много времени :-)
+Посмотрите, пожалуйста, проект YoDaBox https://github.com/Guizeppe2905/YoDaBox.git 
+Просмотр не займет у вас много времени
 
 
 ___
@@ -44,16 +45,9 @@ ___
 
 Также в конце синтаксис был проверен с помощью SwiftLint.
 
-
-
-___
-### Заключение и выводы
-___
-Подводя итоги, принято писать как помочь проекту ... Возьмите автора на стажировку, помогите войти в профессию IOS-разработчика, для начала - стать "полноценным" джуном. :-)
 Спасибо за внимание!
 
 <p align="center">
   <img src="https://gifovina.ru/gif/c5b5ecd7f3fb114e92c69ddd41ce9bb4" alt="animated" />
 </p>
-
 
