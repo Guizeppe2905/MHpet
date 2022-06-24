@@ -3,7 +3,7 @@
 ***
 
 # Введение
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&multiline=true&height=150&lines=%D0%AD%D1%82%D0%BE+1%D1%8B%D0%B9+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2C+%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD+%D0%BD%D0%B0+%D0%94%2F%D0%97;%D0%9F%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5%2C+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C+YoDaBox+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82;https%3A%2F%2Fgithub.com%2FGuizeppe2905%2FYoDaBox.git)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&multiline=true&height=70&lines=%D0%AD%D1%82%D0%BE+1%D1%8B%D0%B9+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2C+%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD+%D0%BD%D0%B0+%D0%94%2F%D0%97;%D0%9F%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5%2C+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C+YoDaBox+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82;https%3A%2F%2Fgithub.com%2FGuizeppe2905%2FYoDaBox.git)](https://git.io/typing-svg)
 ***
 
 <img align="left" src="https://ie.wampi.ru/2022/05/07/emp.jpg" alt="drawing" style="width:220px;"/> Данная работа является первой "пробой пера" и вряд ли может даже называться полноценным Pet-проектом, скорее это просто сборник маленьких проектов. 
