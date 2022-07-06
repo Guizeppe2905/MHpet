@@ -38,7 +38,6 @@ ___
 - REST API
 - UICollectionViewCells
 - URLSession
-- NSAutoLayoutConstraints
 - SnapKit, Alamofire, AVFoundation, UIKit, SwiftUI
 - pattern MVP
 - Анимация
